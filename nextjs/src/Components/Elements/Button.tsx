@@ -6,7 +6,7 @@ import { Spinner } from '@/Components/Elements/Spinner';
 const variants = {
   primary: 'bg-blue-600 text-white',
   inverse: 'bg-white text-blue-600',
-  danger: 'bg-red-600 text-white',
+  danger: 'bg-gradient-to-tl from-rose-300 via-rose-500 to-pink-600 text-white',
 };
 
 const sizes = {
